@@ -1,0 +1,52 @@
+div{ 
+    text-align: bold;
+display: inline-flexbox;
+width: 200px;
+height: 75px;
+background-color: rgb(7, 177, 72);
+margin: 30px;
+padding: 10px;
+}
+.bakr{
+    background-color: rgb(167, 12, 100);
+
+    padding-left: 10px;
+    border-top: 1px 1px 10px darkblue;
+}
+flex{
+padding: 10px;
+    background-color: aqua;
+}
+h2{
+margin: 20px;
+text-align: center;
+    background-color: aqua;
+}
+
+.clockw{
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    border-style: 1px 1px 10px gray;
+background-color: darkred;
+transform: rotate(30deg);
+
+}
+.aclockw{
+background-color: green;
+transform: rotate(-30deg);
+
+
+}
+
+.baker{
+background-color: rgb(93, 4, 201);
+
+
+
+}
+    
+body{
+    border-style: 1px 1px 10px gray;
+   
+}
